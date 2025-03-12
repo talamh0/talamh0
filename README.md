@@ -14,5 +14,4 @@ I'm open to collaborating on projects related to AI,  or any innovative tech ini
 📫 How to Reach Me
 Feel free to reach out to me via:
 
--LinkedIn: Tala Mohammed
--X : @Talacoding
+X : @Talacoding
