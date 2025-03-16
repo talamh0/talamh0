@@ -1,17 +1,17 @@
-👋 Hi there, I’m @talamh0!
-As a senior Computer Science student, I have a deep passion for technology, especially in the field of artificial intelligence. I strive to apply my skills to real-world challenges, having gained experience in programming, software development, and algorithm optimization. Beyond my studies, I have been committed to sharing knowledge and contributing to tech and community initiatives.
+## 👋 Hi there, I’m Tala!
+I’m a senior **Computer Science** student with a strong passion for **Artificial Intelligence (AI)** and technology. My expertise includes **programming, software development, and algorithm optimization**. Beyond my studies, I am dedicated to **sharing knowledge and contributing to tech and community initiatives**.
 
-🌱 Currently Learning
-I'm currently exploring the latest advancements in artificial intelligence . Always eager to learn about emerging trends and innovations in technology.
+### 🌱 Currently Learning
+Exploring the latest advancements in **AI**, always eager to learn about emerging trends and innovations in technology.
 
-👀 Interests
-Artificial Intelligence
-Technology and Innovation
+### 👀 Interests
+- Artificial Intelligence (AI)  
+- Technology & Innovation  
 
-💞️ Looking to Collaborate On
-I'm open to collaborating on projects related to AI,  or any innovative tech initiatives. If you have a project or idea that aligns with my interests, let's connect!
+### 💡 Looking to Collaborate On
+I'm open to collaborating on **AI projects** or any **innovative tech initiatives**. If you have a project or idea that aligns with my interests, let’s connect!  
 
-📫 How to Reach Me
-Feel free to reach out to me via:
+### 📫 How to Reach Me
+📍 LinkedIn: [linkedin.com/in/tala-mohammed-61a9b1216](https://www.linkedin.com/in/tala-mohammed-61a9b1216)  
+📍 X (Twitter): [@Talacoding](https://x.com/talacoding?s=21)  
 
-X : @Talacoding
